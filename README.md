@@ -1,4 +1,4 @@
-# COVID-19-Health-Hackathon
+# COVID-19-Health-Hackathon (Avaneesh Kolluri, Akhilesh Reddy and Ahilan Subbaian)
 Develop and code a scalable idea to decrease the spread of COVID-19.
 
 To create the enviornment to run this code, you must install certain packages and APIs:
